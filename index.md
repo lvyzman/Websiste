@@ -1,1 +1,2 @@
-<h1>ILOVE JESUS</H1>
+<h1>ILOVE JESUS</h1>
+<script>document.write("I love JavaScript")</script>
